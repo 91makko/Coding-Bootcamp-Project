@@ -1,0 +1,21 @@
+C:\Users\Manos\source\repos\Project1CB\Project1CB\obj\Debug\Project1CB.csproj.CoreCompileInputs.cache
+C:\Users\Manos\source\repos\Project1CB\Project1CB\bin\Debug\Project1CB.exe.config
+C:\Users\Manos\source\repos\Project1CB\Project1CB\bin\Debug\Project1CB.exe
+C:\Users\Manos\source\repos\Project1CB\Project1CB\bin\Debug\Project1CB.pdb
+C:\Users\Manos\source\repos\Project1CB\Project1CB\obj\Debug\Project1CB.exe
+C:\Users\Manos\source\repos\Project1CB\Project1CB\obj\Debug\Project1CB.pdb
+C:\Users\Manos\source\repos\Project1CB\Project1CB\obj\Debug\Project1CB.csprojAssemblyReference.cache
+C:\Users\Manos\Desktop\Project1CB\Project1CB\bin\Debug\Project1CB.exe.config
+C:\Users\Manos\Desktop\Project1CB\Project1CB\bin\Debug\Project1CB.exe
+C:\Users\Manos\Desktop\Project1CB\Project1CB\bin\Debug\Project1CB.pdb
+C:\Users\Manos\Desktop\Project1CB\Project1CB\obj\Debug\Project1CB.csprojAssemblyReference.cache
+C:\Users\Manos\Desktop\Project1CB\Project1CB\obj\Debug\Project1CB.csproj.CoreCompileInputs.cache
+C:\Users\Manos\Desktop\Project1CB\Project1CB\obj\Debug\Project1CB.exe
+C:\Users\Manos\Desktop\Project1CB\Project1CB\obj\Debug\Project1CB.pdb
+C:\Users\Manos\Desktop\PROJECT 1 AFDEMP\Project1CB\Project1CB\bin\Debug\Project1CB.exe.config
+C:\Users\Manos\Desktop\PROJECT 1 AFDEMP\Project1CB\Project1CB\bin\Debug\Project1CB.exe
+C:\Users\Manos\Desktop\PROJECT 1 AFDEMP\Project1CB\Project1CB\bin\Debug\Project1CB.pdb
+C:\Users\Manos\Desktop\PROJECT 1 AFDEMP\Project1CB\Project1CB\obj\Debug\Project1CB.csprojAssemblyReference.cache
+C:\Users\Manos\Desktop\PROJECT 1 AFDEMP\Project1CB\Project1CB\obj\Debug\Project1CB.csproj.CoreCompileInputs.cache
+C:\Users\Manos\Desktop\PROJECT 1 AFDEMP\Project1CB\Project1CB\obj\Debug\Project1CB.exe
+C:\Users\Manos\Desktop\PROJECT 1 AFDEMP\Project1CB\Project1CB\obj\Debug\Project1CB.pdb
